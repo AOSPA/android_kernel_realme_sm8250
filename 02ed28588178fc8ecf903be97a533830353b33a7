@@ -16,6 +16,24 @@
       "message": "not sure about this, 2 seems to match what Google does in their display hal.  also, audio latency is important.",
       "revId": "02ed28588178fc8ecf903be97a533830353b33a7",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "72f0d76f_acb59f9f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000498
+      },
+      "writtenOn": "2023-01-11T08:51:20Z",
+      "side": 1,
+      "message": "I didn\u0027t notice any kind of significant latency with audio for now",
+      "parentUuid": "821df584_596d3b34",
+      "revId": "02ed28588178fc8ecf903be97a533830353b33a7",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
