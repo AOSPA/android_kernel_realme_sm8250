@@ -33,6 +33,24 @@
       "message": "Would GPU running necessarily mean dpu shouldn\u0027t be?",
       "revId": "14c614b823952bf0e08a3235c50b74b84246e588",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "651787cf_acea779f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000498
+      },
+      "writtenOn": "2023-01-11T08:49:29Z",
+      "side": 1,
+      "message": "Well, it waste power and it\u0027s like that for a lot of SoC (sm8150, trinket, Bengal, etc) + it doesn\u0027t match the value from our driver",
+      "parentUuid": "5b2b5306_953ff2f0",
+      "revId": "14c614b823952bf0e08a3235c50b74b84246e588",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
