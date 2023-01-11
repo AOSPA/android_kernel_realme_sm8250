@@ -16,6 +16,23 @@
       "message": "I feel like Qualcomm did this on purpose.",
       "revId": "14c614b823952bf0e08a3235c50b74b84246e588",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "be6bc4c6_5cbbaadb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000012
+      },
+      "writtenOn": "2023-01-11T04:20:57Z",
+      "side": 1,
+      "message": "Would GPU running necessarily mean dpu shouldn\u0027t be?",
+      "revId": "14c614b823952bf0e08a3235c50b74b84246e588",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
