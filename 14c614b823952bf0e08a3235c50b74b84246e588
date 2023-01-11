@@ -51,6 +51,24 @@
       "parentUuid": "5b2b5306_953ff2f0",
       "revId": "14c614b823952bf0e08a3235c50b74b84246e588",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "499a78ee_543e27f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000498
+      },
+      "writtenOn": "2023-01-11T08:50:05Z",
+      "side": 1,
+      "message": "So I suppose Qualcomm didn\u0027t cared much about it",
+      "parentUuid": "651787cf_acea779f",
+      "revId": "14c614b823952bf0e08a3235c50b74b84246e588",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
